@@ -1,3 +1,7 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Plugin System](plugin-system.md)
+* Modding
+* [Summary](SUMMARY.md)
+
