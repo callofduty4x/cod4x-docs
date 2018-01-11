@@ -5,7 +5,7 @@
 * [Plugin System](plugin-system.md)
   * [Using Plugins](/using-plugins.md)
   * [Plugin API](//Pul)
-* [Using Plugins](using-plugins.md)
+
 * [Modding](modding.md)
   * [Scripting](/scriptingguide.md)
 * [Summary](SUMMARY.md)
