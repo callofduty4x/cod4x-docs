@@ -10,11 +10,19 @@ To make configuration comfortable and persistent configuration files are used. T
 ```
 set sv_hostname "My cool testserver"
 gamemode war                            // this is a comment
-set sv_maprotation "map mp_killhouse"   // because i like killhouse 
-
+set sv_maprotation "map mp_killhouse"   // because i like killhouse
 ```
 
 > Additional config files can be execute by adding +exec "config.cfg" as a commandline parameter to the server
+
+
+
+Note that variables can be accessed in the following ways:
+
+* Set in .cfg files as seen above
+* Set manually on the console
+* Set remotely via rcon \(okay thats basically also the console\)
+* Set in gsc scripts via \`setDvar\("sv\_hostname", "The bestest server evar"\);\`
 
 
 
