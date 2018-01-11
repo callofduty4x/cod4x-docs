@@ -13,7 +13,7 @@ mods/
 
 ```
 
-To start the server with a mod set the fs\_game variable accordingly. 
+To start the server with a mod set the `fs_game` variable accordingly.
 
-`./cod4x18`_`dedrun +set fs`_`game "pml220"`
+`./cod4x18_dedrun +set fs_game "pml220"`
 
