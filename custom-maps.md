@@ -5,3 +5,5 @@ In order to use custom maps, we have to be able to load them through other means
 
 
 Easiest solution to this currently is to create an empty mod and create a usermaps folder in your server directory. Once the usermaps folder is created, a sub directory for the map name is required. In the case of a map called Koalaty, mp_koalaty is the folder name and mp_koalaty ff files are inside of that folder.
+
+Incases of wanting to keep stats from the base game, set modstats "0" in your config. With this players can keep their current level without having to level up within the mod.
