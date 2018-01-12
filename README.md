@@ -21,13 +21,13 @@ The CoD4x Server provides basic gameplay which can be extended in several ways
 
 ## Masterserver
 
-CoD4x is running its own master server. The masterserver is used to communicate running gameservers to the clients. Note that the CoD4x masterserver only lists CoD4x servers of the latest main version \(1.8\). As you might notice while playing, the CoD4x Clients serverbrowser supports both the original ATVI masterserver as well as the CoD4x masterserver. 
+CoD4x is running its own master server. The masterserver is used to communicate running gameservers to the clients. Note that the CoD4x masterserver only lists CoD4x servers of the latest main version \(1.8\). As you might notice while playing, the CoD4x Clients serverbrowser supports both the original ATVI masterserver as well as the CoD4x masterserver.
 
-If you want to check if your server is correctly listed, check out: http://cod4master.cod4x.me/
+If you want to check if your server is correctly listed, check out: [http://cod4master.cod4x.me/](http://cod4master.cod4x.me/)
 
 ## CoD4x Client
 
-Besides many bugfixes the CoD4x Clients adds several new features for players. 
+Besides many bugfixes the CoD4x Clients adds several new features for players.
 
 * CoD4x specific master server
 * Many cheats are broken
