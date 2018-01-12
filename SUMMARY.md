@@ -10,5 +10,6 @@
   * [Plugin API](/plugin-api.md)
 * [Modding](modding.md)
   * [Scripting](/scriptingguide.md)
+    * [Quickstart](scriptingguide/quickstart.md)
 * [Summary](SUMMARY.md)
 
