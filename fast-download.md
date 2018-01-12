@@ -7,19 +7,23 @@ The following settings in your server configuration are necessary:
 `seta sv_wwwBaseURL "http://domain.tld/cod4fastdl/" // defines url to download from`  
 `seta sv_wwwDlDisconnected "0"                      // disconnect clients while downloading`
 
-Where `sv_wwwBaseURL` has to point to a URL served by your http server. 
+Where `sv_wwwBaseURL` has to point to a URL served by your http server.
 
 An exaple directory tree for a served folder may look as blow:
+
 ```
-cod4dl/
+cod4fastdl/
 ├── mods
-│   ├── pml220
-│   │   ├── mod.ff
-│   │   ├── pml220.iwd
-│   │   ├── z_c_r.iwd
+│   ├── pml220
+│   │   ├── mod.ff
+│   │   ├── pml220.iwd
+│   │   ├── z_c_r.iwd
 ├── usermaps
 │   ├── mp_nuketown
-│   │   ├── mp_nuketown.ff
-│   │   ├── mp_nuketown.iwd
-│   │   ├── mp_nuketown_load.ff
+│   │   ├── mp_nuketown.ff
+│   │   ├── mp_nuketown.iwd
+│   │   ├── mp_nuketown_load.ff
 ```
+
+
+
