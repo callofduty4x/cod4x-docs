@@ -1,8 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [Server Configuration](server-configuration.md)
+* [Server Basics](server-configuration.md)
   * [Running Mods](/running-mods.md)
+  * [Custom Maps](custom-maps.md)
   * [Fast Download](fast-download.md)
 * [Plugin System](plugin-system.md)
   * [Using Plugins](/using-plugins.md)
@@ -10,6 +11,4 @@
 * [Modding](modding.md)
   * [Scripting](/scriptingguide.md)
 * [Summary](SUMMARY.md)
-
-
 
