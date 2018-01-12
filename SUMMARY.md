@@ -2,7 +2,8 @@
 
 * [Introduction](README.md)
 * [Server Configuration](server-configuration.md)
-  * [Running Mods](/fast-download.md)
+  * [Running Mods](/running-mods.md)
+  * [Fast Download](fast-download.md)
 * [Plugin System](plugin-system.md)
   * [Using Plugins](/using-plugins.md)
   * [Plugin API](//Pul)

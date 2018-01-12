@@ -1,22 +1,14 @@
-# Running Mods
+# Fast Download
 
-To run a mod the servers `fs_game` variable must be set correctly. Mods reside in the `mods` folder inside `fs_homepath`.
+While players are able to download mods and custom maps of a server without any special configuration, this is only possible with a very limited download speed. Much more effective is the configuration of a fast download http server. 
 
-Example directory tree:
+The following settings in your server configuration are necessary:
 
-```
-mods/                                  
-├── pml220                         
-│   ├── mod.ff                         
-│   ├── pml220.iwd                     
-│   ├── z_c_r.iwd
-```
+`seta sv_wwwDownload "1"                            // enable download redirection`
 
-To start the server with a mod set the `fs_game` variable accordingly.
+`seta sv_wwwBaseURL "http://domain.tld/cod4fastdl/" // defines url to download from`
 
-`./cod4x18_dedrun +set fs_game "mods/pml220"`
-
-> Note: `mods/pml220` matches the directory structure
+`seta sv_wwwDlDisconnected "0"                      // disconnect clients while downloading`
 
 
 
