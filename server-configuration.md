@@ -28,5 +28,9 @@ Note that variables can be accessed in the following ways:
 
 ## Commands
 
-Commands can be executed and yield a direct result. For example the `map `command lets you change the currently played map. An extensive list of all available commands can be shown with `cmdlist` command. 
+Commands can be executed and yield a direct result. For example the `map`command lets you change the currently played map. An extensive list of all available commands can be shown with `cmdlist` command.
+
+
+
+
 
