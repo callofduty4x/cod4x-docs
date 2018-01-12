@@ -11,7 +11,7 @@ It is great that ATVI has provided such an extensive modding framework with Call
 The CoD4x Server provides basic gameplay which can be extended in several ways
 
 1. Plugins  
-   Plugins are the most low level way to extend functionality of the CoD4x Server. Plugins are write in the C Programming language an can communicate with the server core via a Plugin API.
+   Plugins are the most low level way to extend functionality of the CoD4x Server. Plugins are written in the C Programming language an can communicate with the server core via a Plugin API.
 
 2. Scripting  
    CoD4\(x\) uses the GSC scripting language to define gameplay behaviour. Scripts can be self created and modfied in several ways. More on that in the scripting guide. GSC scripts are solely executed on the server, Clients do not execute GSC scripts.
