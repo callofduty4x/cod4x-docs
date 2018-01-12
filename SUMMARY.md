@@ -11,5 +11,9 @@
 * [Modding](modding.md)
   * [Scripting](/scriptingguide.md)
     * [Quickstart](scriptingguide/quickstart.md)
+    * Basics
+    * Stock Scripts
+    * Overriding Scripts
+    * [Debugging Scripts](scriptingguide/debugging-scripts.md)
 * [Summary](SUMMARY.md)
 
