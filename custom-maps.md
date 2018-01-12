@@ -1,6 +1,10 @@
 # Custom Maps
 
-In order to use custom maps, we have to be able to load them through other means. Normally a map is loaded via map mp_<name>. This is fine as stock maps are loaded on every client, but in the case of custom maps, users have to download these files to their local directory in order to play. We can't do this over ATVIs implementation without a mod. 
+Modded CoD4 servers have the ability to run with user created maps.
+
+To run a server with a custom map, it has to first be placed in the `usermaps` folder. In case that folder does not yet exist in your server directory just create it. Just like mods, connecting clients will have to download these maps first before playing them. As the CoD4 servers download speed is quite low, setting up a [fast download server](/fast-download.md) is recommended. 
+
+
 
 
 
