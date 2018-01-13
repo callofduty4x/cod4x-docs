@@ -16,5 +16,4 @@
     * [Overriding Scripts](modding/scriptingguide/overriding-scripts.md)
     * [Debugging Scripts](scriptingguide/debugging-scripts.md)
     * [Script Locations](modding/scriptingguide/script-locations.md)
-* [Summary](SUMMARY.md)
 
