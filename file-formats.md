@@ -26,7 +26,7 @@ Proprietary image format. Can be converted from and to with [iwi2dds](https://ga
 
 Text files containing server side scripting code. As GSC syntax is quite similar to C, syntax highlighting more or less works in all editors. The best known solution currently is using [Visual Studio Code](https://code.visualstudio.com/) with the [CoD-Sense plugin](https://marketplace.visualstudio.com/items?itemName=se2dev.cod-sense), which provides syntax highlighting explicitely for GSC code.
 
-### CFG Files
+### Config Files
 
 > Extension: .cfg
 
