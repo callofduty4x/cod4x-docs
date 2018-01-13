@@ -13,7 +13,7 @@
     * [Quickstart](/modding/scriptingguide/quickstart.md)
     * [Basics](modding/scriptingguide/basics.md)
     * [Stock Scripts](modding/scriptingguide/stock-scripts.md)
-    * Overriding Scripts
+    * [Overriding Scripts](modding/scriptingguide/overriding-scripts.md)
     * [Debugging Scripts](scriptingguide/debugging-scripts.md)
 * [Summary](SUMMARY.md)
 
