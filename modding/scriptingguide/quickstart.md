@@ -1,5 +1,5 @@
 # Quickstart - Running your first script!
-In this chapter we develop a small welcome script. It will wait for a player to connect to the server, and write a welcome message to his screen.
+In this chapter we develop a small welcome script. It will wait for a player to connect to the server, and write a welcome message to his screen. To follow this tutorial make sure you have a running CoD4x server first.
 
 ### Set up your scriptfile
 Inside the serverfolder create a new folder called **main_shared**<sup>[1](#myfootnote1)</sup>. Inside **main_shared** create a file called **welcome.gsc**. This file will contain our code.
