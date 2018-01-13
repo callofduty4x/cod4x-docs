@@ -1,6 +1,6 @@
 # File Formats
 
-Below described are the file formats used for modding. and methods to convert, extract and repack files.
+Below described are the file formats used in the Infinity Ward engine. and methods to convert, extract and repack files.
 
 ### Fast Files
 
