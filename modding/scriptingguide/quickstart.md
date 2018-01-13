@@ -23,7 +23,6 @@ welcome()
 }
 ```
 
-
 ### Execute the script
 Just because a script or function is present, doesn't mean it also gets executed. *You not only tell them how to jump, you also tell them when to jump.* 
 Do not worry yet about the following lines, what's happening will be explained later.
