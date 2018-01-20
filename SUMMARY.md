@@ -1,6 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
+* [CoD4x Client](cod4x-client.md)
+  * [Installation](cod4x-client/installation.md)
 * [Server Basics](server-configuration.md)
   * [Running Mods](serverbasics/running-mods.md)
   * [Custom Maps](serverbasics/custom-maps.md)
