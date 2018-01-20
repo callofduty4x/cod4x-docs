@@ -24,7 +24,7 @@ Call of Duty 4 MW
 ├── <and some more other files and folders>
 ```
 
-At this point just double-click `install.cmd` to install the CoD4x client files. Finally run your game as usual. On the main screen you will now notice that the games version changed from 1.7 to
+At this point just double-click `install.cmd` to install the CoD4x client files. Finally run your game as usual. On the main menu you will now notice that the games version changed from 1.7 to 1.8. 
 
 ![](/assets/cod4x-client-version.png)
 
