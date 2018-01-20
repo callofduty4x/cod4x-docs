@@ -24,7 +24,13 @@ Call of Duty 4 MW
 ├── <and some more other files and folders>
 ```
 
-At this point just double-click `install.cmd` to install the CoD4x client files. Finally run your game as usual. On the main menu you will now notice that the games version changed from 1.7 to 1.8. 
+At this point just double-click `install.cmd` to install the CoD4x client files. Finally run your game as usual. On the main menu you will now notice that the games version changed from 1.7 to 1.8.
 
 ![](/assets/cod4x-client-version.png)
+
+## CoD4x on Mac and Linux
+
+A native version of CoD4x is not available for Mac computers. We are sorry for not providing a Mac version of CoD4x, but for the very small audience and our limited ressources it is not feasible to support other operating systems natively.
+
+If you still want to run CoD4x on a Mac consider using [Bootcamp](https://support.apple.com/de-at/boot-camp). 
 

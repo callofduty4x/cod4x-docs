@@ -25,5 +25,3 @@ CoD4x makes playing with your clan tag more convenient. Make sure your steam cli
 
 
 
-
-
