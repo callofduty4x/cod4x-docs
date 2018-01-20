@@ -6,7 +6,7 @@ To play on a CoD4x 1.8+ enabled server, each player is required to use the CoD4x
 
 Updates to the CoD4x Client are provided via an auto-update system. When starting the client check out the main menu, if you see a button saying "Auto update", press it and the update will be installed to your computer.
 
-## Manual Installation
+## Manual Client Installation
 
 If the automated installer is not working for you, the client can still be installed manually. We provide the files to patch your Call of Duty 4 MW client to 1.8 on our website. The files can be [downloaded here](https://cod4x.me/downloads/cod4x_client.zip). After downloading and unpacking the files, make sure your folder structure looks as outlined below.
 
