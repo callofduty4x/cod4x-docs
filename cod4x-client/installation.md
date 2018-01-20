@@ -1,6 +1,10 @@
 # Installation
 
-To play on a CoD4x 1.8+ enabled server, each player is required to use the CoD4x client. The client can be installed in various ways. Typically, you just connect to any CoD4x 1.8+ server and you will be asked to install the client. This will happen
+To play on a CoD4x 1.8+ enabled server, each player is required to use the CoD4x client. The client can be installed in various ways. Typically, you just connect to any CoD4x 1.8+ server and you will be asked to install the client. Choose to just temporarily run the client, or to install the client to your system, and follow the instructions.
+
+## Installing Updates
+
+Updates to the CoD4x Client are provided via an auto-update system. When starting the client check out the main menu, if you see a button saying "Auto update", press it and the update will be installed to your computer.
 
 ## Manual Installation
 
@@ -20,7 +24,7 @@ Call of Duty 4 MW
 ├── <and some more other files and folders>
 ```
 
-At this point just double-click `install.cmd` to install the CoD4x client files. Finally run your game as usual. On the main screen you will now notice that the games version changed from 1.7 to 
+At this point just double-click `install.cmd` to install the CoD4x client files. Finally run your game as usual. On the main screen you will now notice that the games version changed from 1.7 to
 
 ![](/assets/cod4x-client-version.png)
 
