@@ -28,3 +28,7 @@ cod4fastdl/
 
 
 
+## Pitfalls
+
+https://cod4x.me/index.php?/forums/topic/2509-redircted-failed-download-mod/\#comment-11482
+
