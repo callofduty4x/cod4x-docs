@@ -9,6 +9,7 @@
   * [Running Mods](serverbasics/running-mods.md)
   * [Custom Maps](serverbasics/custom-maps.md)
   * [Fast Download](serverbasics/fast-download.md)
+  * [Troubleshooting](troubleshooting.md)
 * [Plugin System](plugin-system.md)
   * [Using Plugins](pluginsystem/using-plugins.md)
   * [Plugin API](pluginsystem/plugin-api.md)
