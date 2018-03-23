@@ -5,6 +5,7 @@
   * [Installation](cod4x-client/installation.md)
   * [Added Features](cod4x-client/added-features.md)
   * [Config Files](cod4x-client/config-files.md)
+  * [Troubleshooting](cod4x-client/troubleshooting.md)
 * [CoD4x Server](server-configuration.md)
   * [Running Mods](serverbasics/running-mods.md)
   * [Custom Maps](serverbasics/custom-maps.md)
