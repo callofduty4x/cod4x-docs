@@ -14,7 +14,7 @@ Storing bans is not part of the server. However, plugins do exist for that and a
 
 Most likely not an actual error. Your server does not support IPv6. Can be ignored in most cases.
 
+#### CoD4x and Docker
 
-
-
+When running the CoD4x \(linux\) server inside a docker container on a windows machine the main and zone folders should not be mounted directly, but be mounted on its parent path. Otherwise the server will fail to load the iwds for some reason.
 
