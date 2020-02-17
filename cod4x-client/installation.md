@@ -118,7 +118,7 @@ drive_c
 
 ## Cod4x on Linux
 
-Linux can run Cod4x install via Wine to run the windows game client and steam natively. The following are instructions for Ubuntu 19.10 via the terimal. Adjust the commands accordingly per your distro and username and file locations.
+Linux can run the Cod4x install via Wine to run the windows game client and steam natively. The following are instructions for Ubuntu 19.10 via the terimal. Adjust the commands accordingly per your distro and username and file locations.
 
 1. Run the terminal commands to install the latest version of wine and enable support for 32 bit apps.
 ```
