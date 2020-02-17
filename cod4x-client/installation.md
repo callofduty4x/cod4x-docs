@@ -34,9 +34,89 @@ At this point just double-click `install.cmd` to install the CoD4x client files.
 
 A native version of CoD4x is not available for Mac computers. We are sorry for not providing a Mac version of CoD4x, but for the very small audience and our limited resources it is not feasible to support other operating systems natively.
 
-If you still want to run CoD4x on a Mac consider using [Bootcamp](https://support.apple.com/de-at/boot-camp).
+If you still want to run CoD4x on a Mac consider using [Bootcamp](https://support.apple.com/de-at/boot-camp) or [CrossOver](https://www.codeweavers.com/products/) a paid solution of wine to rune windows apps in macOS. Crossover can run CoD4x via the instructions below.
 
-## Cod4x Linux Client Installation
+1. Run CrossOver from your MAC applications folder and click the Install a Windows Application Button.
+
+2. Type in Call of duty 4 in the application search window.
+
+3. Click on Select Installer. You can try to install COD4 via Steam if you bought it that way. In this instruction we will install from the original DVD. Mount your COD4 DVD and select it from the list or browse where the setup file is with the choose installer file option.
+
+4. Click on Select Bottle. This is basically your unique windows installation. Choose Windows 10 64-bit (Anything past Windows XP as Steam is not supported on that OS anymore).
+
+5. Go to install & Finish and click Install.
+
+6. Click Done. You will maybe see an application window error.. just ignore it. I believe the built in Crossover script runs the wrong setup file if you see this and it doesn't matter.
+
+7. Now click on the show/hide bottles button in the top left corner of CrossOver. You will now see a windows installation named for your COD4 game specifically. Make sure its clicked and click the Run Command... function.
+
+8. Click on the browse button.
+
+9. Go to your mounted DVD or you installation folder and select setup.exe and click open.
+
+10. Click the Run button.
+
+11. The install wizard for COD4 will show up. Install it as usual and click finish at the end.
+
+12. If you did it correctly you should now see an activision folder and MAC containers for your game in CrossOver. Download the COD4 1.6 and 1.7 patch files.
+
+13. Click on Run Command... again.
+
+14. Browse for the 1.6 patch executable and click Run.
+
+15. This patch will take 10+ minutes to load. BE PATIENT! After it loads install like normal.
+
+16. Repeat step 13 for patch 1.7.
+
+17. Download and unzip the Cod4X windows client from the [downloaded here](https://cod4x.me/downloads/cod4x_client.zip). Now right click on the Call of duty 4 bottle on the left side of crossover and click Open C: Drive.
+
+18. Place the unzipped client folder in the "drive_c/Program Files (x86)/Activision/Call of Duty 4 - Modern Warfare/" folder.
+```
+drive_c
+├── ProgramData
+    ├── <and some more other files>
+├── Program Files
+    ├── <and some more other files>                     
+├── Program Files (x86)
+    ├── Activision
+        ├── Call of Duty 4 - Modern Warfare      
+            |── cod4x18_v17_9_client <<-- your unpacked folder here
+                ├── cod4x_017.dll
+                ├── crashrpt1403.dll
+                ├── install.cmd   
+                ├── uninstall.cmd
+                ├── <and some more other files>
+            ├── iw3mp.exe                     
+            ├── miles32.dll
+            ├── mss32.dll
+            ├── <and some more other files and folders>
+```
+
+19. Go back to the CrossOver app and click the Run Command...
+
+20. Click the Browse button.
+
+21. Go to the folder you placed the Cod4x client folder in and select the install.cmd file and click open.
+
+22. Click the Run button.
+
+23. You should see a Done! command window and just press any key to close it. If you see and error you messed up somehow.
+
+24. Some CoD4x servers require steam to run or it will boot you. Download and install the windows version of Steam from [HERE](https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe) and use the Run Command... again to select it and click the Run button.
+
+25. Install steam as usual.
+
+26. Now you can should see Steam and COD4 Mac Containers in CrossOver.
+
+27. Run Steam. You have to make an account and log into to steam for it to run with COD4. If you don't have an account MAKE ONE.
+
+28. After logging in click on the + ADD A GAME button in the bottom left corner and click Add a Non-Steam Game..
+
+29. Select the single player and multiplayer COD4 games check boxes and click ADD SELECTED PROGRAMS.
+
+30. Thats it folks. Now run COD4 Multiplayer from Crossover by double clicking it. You will have to close and open it a few times to get your settings right. There is one bug though. If COD4 minimizes it looses the mouse. You have to just close and open COD4 again and you will be fine. You just have to open steam and make sure you logged in and run COD4 separately each time. 
+
+## Cod4x on Linux
 
 Linux can run Cod4x install via Wine to run the windows game client and steam natively. The following are instructions for Ubuntu 19.10 via the terimal. Adjust the commands accordingly per your distro and username and file locations.
 
