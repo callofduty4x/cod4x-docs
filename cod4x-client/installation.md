@@ -12,7 +12,7 @@ If the automated installer is not working for you, the client can still be insta
 
 ```
 Call of Duty 4 MW
-├── cod4x_client <<-- your unpacked folder here
+├── cod4x18_v17_9_client <<-- your unpacked folder here
     ├── cod4x_017.dll
     ├── crashrpt1403.dll
     ├── install.cmd   
