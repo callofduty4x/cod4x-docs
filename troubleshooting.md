@@ -10,7 +10,7 @@ Read qconsole.log and find the error message. Setting the "developer" to "1" wil
 
 Storing bans is not part of the server. However, plugins do exist for that and are provided with the server download at cod4x.me. Just load the simplebanlist with "loadplugin simplebanlist" on the server console or in your server config to get started.
 
-#### Error: Couldn't resolve\(IPv6\) cod4master.cod4x.me
+#### Error: Couldn't resolve\(IPv6\) cod4master.cod4x.ovh
 
 Most likely not an actual error. Your server does not support IPv6. Can be ignored in most cases.
 
