@@ -1,6 +1,6 @@
 # CoD4x
 
-CoD4x is a community driven project that extends the basic functionality of Call of Duty 4: Modern Warfare. Initially development took place on the server-side with Cod4x 1.7a,which is now deprecated. The current version of CoD4x ,1.8, contains modifications to the base server as well as the client.
+CoD4x is a community driven project that extends the basic functionality of Call of Duty 4: Modern Warfare. Initially development took place on the server-side with Cod4x 1.7, which is now deprecated. The current version of CoD4x 21.1, contains modifications to the base server as well as the client.
 
 ## Motivation
 
@@ -23,7 +23,7 @@ The CoD4x Server provides basic gameplay which can be extended in several ways
 
 CoD4x is running its own master server. The masterserver is used to communicate running gameservers to the clients. Note that the CoD4x masterserver only lists CoD4x servers of the latest main version \(1.8\). As you might notice while playing, the CoD4x Clients serverbrowser supports both the original ATVI masterserver as well as the CoD4x masterserver.
 
-If you want to check if your server is correctly listed, check out: [http://cod4master.cod4x.me/](http://cod4master.cod4x.me/)
+If you want to check if your server is correctly listed, check out: [http://cod4master.cod4x.ovh/](http://cod4master.cod4x.ovh/)
 
 ## CoD4x Client
 
