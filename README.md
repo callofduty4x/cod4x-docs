@@ -1,6 +1,6 @@
 # CoD4x
 
-CoD4x is a community driven project that extends the basic functionality of Call of Duty 4: Modern Warfare. Initially development took place on the server-side with Cod4x 1.7, which is now deprecated. The current version of CoD4x 21.1, contains modifications to the base server as well as the client.
+CoD4x is a community driven project that extends the basic functionality of Call of Duty 4: Modern Warfare. Initially development took place on the server-side with Cod4x 1.7a, which is now deprecated. The current version of CoD4x 21.1, contains modifications to the base server as well as the client.
 
 ## Motivation
 
