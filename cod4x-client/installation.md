@@ -1,6 +1,6 @@
 # Installation
 
-To play on a CoD4x 1.8+ enabled server, each player is required to use the CoD4x client. The client can be installed in various ways. Typically, you just connect to any CoD4x 1.8+ server and you will be asked to install the client. Choose to just temporarily run the client, or to install the client to your system, and follow the instructions.
+To play on a CoD4x enabled server, each player is required to use the CoD4x client. The client can be installed in various ways. Typically, you just connect to any CoD4x server and you will be asked to install the client. Choose to just temporarily run the client, or to install the client to your system, and follow the instructions.
 
 ## Installing Updates
 
@@ -8,12 +8,12 @@ Updates to the CoD4x Client are provided via an auto-update system. When startin
 
 ## Manual Client Installation
 
-If the automated installer is not working for you, the client can still be installed manually. We provide the files to patch your Call of Duty 4 MW client to 1.8 on our website. The files can be [downloaded here](https://cod4x.me/downloads/cod4x_client.zip). After downloading and unpacking the files, make sure your folder structure looks as outlined below.
+If the automated installer is not working for you, the client can still be installed manually. We provide the files to patch your Call of Duty 4 MW client to Cod4x on our website. The files can be [downloaded here](https://cod4x.ovh/t/cod4x-releases/24). After downloading and unpacking the files, make sure your folder structure looks as outlined below.
 
 ```
-Call of Duty 4 MW
-├── cod4x18_v17_9_client <<-- your unpacked folder here
-    ├── cod4x_017.dll
+Call of Duty 4 Modern Warfare
+├── cod4x_client <<-- your unpacked folder here (will contain a version number) 
+    ├── cod4x_021.dll <<-- (version number will be different with newer Cod4X versions in the future)
     ├── crashrpt1403.dll
     ├── install.cmd   
     ├── uninstall.cmd
@@ -24,7 +24,7 @@ Call of Duty 4 MW
 ├── <and some more other files and folders>
 ```
 
-At this point just double-click `install.cmd` to install the CoD4x client files. Finally run your game as usual. On the main menu you will now notice that the games version changed from 1.7 to 1.8.
+At this point just double-click `install.cmd` to install the CoD4x client files. Finally run your game as usual. On the main menu you will now notice that the games version changed from 1.7 to Cod4x 21.1 (or newer).
 
 > Administrative permissions may be required if your game is installed to a protected directory like `C:\Program Files\`
 
@@ -68,7 +68,7 @@ If you still want to run CoD4x on a Mac consider using [Bootcamp](https://suppor
 
 16. Repeat step 13 for patch 1.7.
 
-17. Download and unzip the Cod4X windows client from the [downloaded here](https://cod4x.me/downloads/cod4x_client.zip). Now right click on the Call of duty 4 bottle on the left side of crossover and click Open C: Drive.
+17. Download and unzip the Cod4X windows client from the [downloaded here](https://cod4x.ovh/t/cod4x-releases/24). Now right click on the Call of duty 4 bottle on the left side of crossover and click Open C: Drive.
 
 18. Place the unzipped client folder in the "drive_c/Program Files (x86)/Activision/Call of Duty 4 - Modern Warfare/" folder.
 ```
